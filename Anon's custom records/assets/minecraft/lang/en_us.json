@@ -1,10 +1,10 @@
 {
-  "advancements.husbandry.netherite_hoe.description": "Use a lionsdale alloy to upgrade farming equimpment, and then reevaluate your life choices",
-  "advancements.nether.netherite_armor.description": "Get a full set of Lionsdale alloy armor",
+  "advancements.husbandry.netherite_hoe.description": "Use an ingot of Lionsdale Alloy to upgrade farming equipment, and then reevaluate your life choices",
+  "advancements.nether.netherite_armor.description": "Get a full set of Lionsdale Alloy armor",
   "advancements.nether.netherite_armor.title": "Cover Me in Stardust",
   "block.minecraft.netherite_block": "Block of Lionsdale Alloy",
   "item.minecraft.disc_fragment_5": "Cheesy Glob",
-  "item.minecraft.disc_fragment_5.desc": "It's mixed with sand, it adds to the flavour",
+  "item.minecraft.disc_fragment_5.desc": "- Mixed with sand, it adds to the flavour",
   "item.minecraft.music_disc_5.desc": "Mr. Sauceman, ClascyJitto, POST ELVIS - Calzonification",
   "item.minecraft.music_disc_11.desc": "Mr. Sauceman, ClascyJitto, POST ELVIS - Bye Bye There!",
   "item.minecraft.music_disc_13.desc": "Mar Mar - Intense Wither",
@@ -38,7 +38,7 @@
   "item.minecraft.diamond_leggings": "Mythrillous Leggings",
   "item.minecraft.diamond_pickaxe": "Mythrillous Pickaxe",
   "item.minecraft.diamond_shovel": "Mythrillous Shovel",
-  "item.minecraft.diamond_sword": "Mythrillous Sword"
+  "item.minecraft.diamond_sword": "Mythrillous Sword",
   "trim_material.minecraft.diamond": "Mythril Material",
   "item.minecraft.diamond_horse_armor": "Mythrillous Horse Armor",
   "item.minecraft.smithing_template.netherite_upgrade.applies_to": "Mythrillous Equipment",
