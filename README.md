@@ -10,11 +10,13 @@ Features
 
 5 is replaced by Calzonification from the same game.
 
-Stal is replaced by the Withered Symbiont's theme from Cracker's Wither Storm Mod.
-
 13 is replaced by the Withered Symbiont's second theme.
 
-Mellohi is replaced by Springhop, a friend's creation
+Stal is replaced by Corruptors from StarCraft 2: Heart of the Swarm.
+
+Chirp is replaced by A Violent Night from Tower Defense Simulator.
+
+Mellohi is replaced by Springhop, a friend's creation.
 
 Blocks is replaced by Contradiction, by the same friend.
 
