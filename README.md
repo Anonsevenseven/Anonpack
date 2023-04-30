@@ -25,4 +25,5 @@ Netherite is now Lionsdale, a spaceborne material that was fully extracted from 
 
 Diamonds are now Mythril, the mythical metal of the elves.
 
-slyce addendum: "i thought mythril was copper (II) acetate with quartz impurities"
+slyce//"i thought mythril was copper (II) acetate with quartz impurities"
+Anon77//"...What??"
