@@ -23,6 +23,6 @@ Blocks is replaced by Contradiction, by the same friend.
 
 Netherite is now Lionsdale, a spaceborne material that was fully extracted from the overworld and lost upon entry to the nether.
 
-Diamonds are now Mythril, the mythical metal of the elves. Might change this though to be something like Psimetal or something similar ^~^` 
+Diamonds are now Mythril, the mythical metal of the elves.
 
 slyce addendum: "i thought mythril was copper (II) acetate with quartz impurities"
