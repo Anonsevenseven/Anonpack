@@ -20,11 +20,11 @@ Mellohi is replaced by Springhop, a friend's creation.
 
 Blocks is replaced by Contradiction, by the same friend.
 
+Far is replaced by α decay, a theme from Touhou: Lost Word.
 
-Netherite is now Lionsdale, a spaceborne material that was fully extracted from the overworld and lost upon entry to the nether.
+Strad is replaced by Leak, a piece from C418 himself.
+
+
+Netherite is now Lonsdaleite, a spaceborne material that was fully extracted from the overworld and lost upon entry to the nether.
 
 Diamonds are now Mythril, the mythical metal of the elves.
-
-//I thought mythril was copper acetate (II) with quartz impurities
-
-//Pardon??????
