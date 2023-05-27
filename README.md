@@ -37,6 +37,8 @@ Rubedo is now Home, by C418
 
 Aerie is now ATX, by C418
 
+An Ordinary Day is now the intro for Fake Triplets, by C418
+
 Comforting Memories is now AMS, also by C418
 
 Firebugs is now the intro section of Figure 8, by C418
